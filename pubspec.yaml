@@ -30,7 +30,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: cn.mofada.update_app
+        package: com.ark.update_app
         pluginClass: UpdateAppPlugin
       ios:
         pluginClass: UpdateAppPlugin
